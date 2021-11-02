@@ -1,0 +1,5 @@
+﻿  OBJ.cpp
+  OBJSlicer.cpp
+  Generating Code...
+C:\Users\rh427\source\repos\OBJ\OBJ\OBJSlicer.cpp(10,19): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  OBJ.vcxproj -> C:\Users\rh427\source\repos\OBJ\Debug\OBJ.exe

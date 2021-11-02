@@ -1,0 +1,12 @@
+﻿  Face.cpp
+  OBJ.cpp
+  OBJReader.cpp
+  OBJSlicer.cpp
+  Point.cpp
+C:\Users\rh427\source\repos\OBJ\OBJ\OBJSlicer.cpp(22,6): warning C4101:  'thresh': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\rh427\source\repos\OBJ\OBJ\Plane.h(63): warning C4715: 'Plane::getFaceWeight': not all control paths return a value
+  All 963 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OBJ.vcxproj -> C:\Users\rh427\source\repos\OBJ\Release\OBJ.exe
